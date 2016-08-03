@@ -1,2 +1,2 @@
-# nowcoder
-Online judge result in www.nowcoder.com
+# newcoder
+Online judge result in www.newcoder.com
